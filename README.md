@@ -1,4 +1,3 @@
-# Mohd-Zaid
 # 💫 About Me:
 Hi, I'm Mohd Zaid 👋  <br>Aspiring Software Engineer 🚀  <br><br>Highly motivated Computer Science undergraduate with strong expertise in Java backend development<br>using Spring Boot, and a solid foundation in Data Structures and Algorithms. Actively strengthening<br>problem-solving skills through regular practice on LeetCode and GeeksforGeeks. Also proficient in frontend<br>technologies including HTML, CSS, JavaScript, and React.js. Experienced in building scalable, user-focused<br>applications through academic and personal projects<br><br><br>🚀 Full Stack Developer | Java  Enthusiast<br>📫 How to reach me: zaidalig1234@gmail.com<br>💡 I’m looking for Job Opportunities in Full Stack Web Developer<br>
 
